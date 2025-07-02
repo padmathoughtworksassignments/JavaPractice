@@ -9,6 +9,16 @@
         <option value="$PROJECT_DIR$/CoreJava/StringClassPractice/pom.xml" />
         <option value="$PROJECT_DIR$/CoreJava/AnonymousClasses/pom.xml" />
         <option value="$PROJECT_DIR$/CoreJava/Exceptions/pom.xml" />
+        <option value="$PROJECT_DIR$/CoreJava/untitled/pom.xml" />
+        <option value="$PROJECT_DIR$/CoreJava/MultiThreadSync/pom.xml" />
+        <option value="$PROJECT_DIR$/CoreJava/MyArithException/pom.xml" />
+        <option value="$PROJECT_DIR$/CoreJava/Concurrency/pom.xml" />
+        <option value="$PROJECT_DIR$/CoreJava/PrintNumber/pom.xml" />
+        <option value="$PROJECT_DIR$/CoreJava/AtomicIntEx/pom.xml" />
+        <option value="$PROJECT_DIR$/CoreJava/SynchronizedCounter/pom.xml" />
+        <option value="$PROJECT_DIR$/CoreJava/ThreadPool/pom.xml" />
+        <option value="$PROJECT_DIR$/CoreJava/ArrayList/pom.xml" />
+        <option value="$PROJECT_DIR$/CoreJava/HashMapEx/pom.xml" />
       </list>
     </option>
   </component>

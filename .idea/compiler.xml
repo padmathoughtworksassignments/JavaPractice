@@ -6,12 +6,24 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Exceptions" />
+        <module name="MultiThreadSync" />
+        <module name="HashMapEx" />
+        <module name="AnonymousClasses" />
+        <module name="ThreadPool" />
+        <module name="ArrayList" />
         <module name="StringClassPractice" />
         <module name="StaticPractice" />
-        <module name="AnonymousClasses" />
+        <module name="AtomicIntEx" />
+        <module name="Concurrency" />
+        <module name="Exceptions" />
+        <module name="PrintNumber" />
+        <module name="MyArithException" />
+        <module name="SynchronizedCounter" />
         <module name="FinallConst" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="MultiThread" target="24" />
+    </bytecodeTargetLevel>
   </component>
 </project>
