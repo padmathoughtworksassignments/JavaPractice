@@ -13,22 +13,38 @@
     <file url="file://$PROJECT_DIR$/CoreJava/Exceptions/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/CoreJava/HashMapEx/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/CoreJava/HashMapEx/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CoreJava/JDBC1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CoreJava/JDBC1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CoreJava/JDBC2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CoreJava/JDBC2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CoreJava/LambaEx/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CoreJava/LambaEx/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/CoreJava/MultiThreadSync/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/CoreJava/MultiThreadSync/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/CoreJava/Multithread/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/CoreJava/Multithread/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CoreJava/MyArithException/Vehicle/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CoreJava/MyArithException/Vehicle/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/CoreJava/MyArithException/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/CoreJava/MyArithException/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CoreJava/OptionalAPIDemo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CoreJava/OptionalAPIDemo/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/CoreJava/PrintNumber/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/CoreJava/PrintNumber/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/CoreJava/StaticPractice/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/CoreJava/StaticPractice/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CoreJava/StreamAPI/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CoreJava/StreamAPI/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CoreJava/StreamsAPI/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CoreJava/StreamsAPI/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/CoreJava/StringClassPractice/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/CoreJava/StringClassPractice/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/CoreJava/SynchronizedCounter/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/CoreJava/SynchronizedCounter/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/CoreJava/ThreadPool/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/CoreJava/ThreadPool/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CoreJava/TicketBooking/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CoreJava/TicketBooking/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/FinallConst/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/FinallConst/src/main/resources" charset="UTF-8" />
   </component>

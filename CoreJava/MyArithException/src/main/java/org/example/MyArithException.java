@@ -1,3 +1,5 @@
+package org.example;
+
 class ZeroException extends RuntimeException
 {
     //String message;

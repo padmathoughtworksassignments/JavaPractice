@@ -8,16 +8,23 @@
         <outputRelativeToContentRoot value="true" />
         <module name="MultiThreadSync" />
         <module name="HashMapEx" />
+        <module name="OptionalAPIDemo" />
+        <module name="JDBC1" />
+        <module name="JDBC2" />
         <module name="AnonymousClasses" />
+        <module name="LambaEx" />
         <module name="ThreadPool" />
         <module name="ArrayList" />
         <module name="StringClassPractice" />
         <module name="StaticPractice" />
         <module name="AtomicIntEx" />
+        <module name="StreamsAPI" />
+        <module name="Vehicle" />
         <module name="Concurrency" />
+        <module name="TicketBooking" />
         <module name="Exceptions" />
         <module name="PrintNumber" />
-        <module name="MyArithException" />
+        <module name="StreamAPI" />
         <module name="SynchronizedCounter" />
         <module name="FinallConst" />
       </profile>

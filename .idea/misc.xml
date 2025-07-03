@@ -19,6 +19,13 @@
         <option value="$PROJECT_DIR$/CoreJava/ThreadPool/pom.xml" />
         <option value="$PROJECT_DIR$/CoreJava/ArrayList/pom.xml" />
         <option value="$PROJECT_DIR$/CoreJava/HashMapEx/pom.xml" />
+        <option value="$PROJECT_DIR$/CoreJava/JDBC1/pom.xml" />
+        <option value="$PROJECT_DIR$/CoreJava/JDBC2/pom.xml" />
+        <option value="$PROJECT_DIR$/CoreJava/LambaEx/pom.xml" />
+        <option value="$PROJECT_DIR$/CoreJava/OptionalAPIDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/CoreJava/StreamsAPI/pom.xml" />
+        <option value="$PROJECT_DIR$/CoreJava/TicketBooking/pom.xml" />
+        <option value="$PROJECT_DIR$/CoreJava/StreamAPI/pom.xml" />
       </list>
     </option>
   </component>
